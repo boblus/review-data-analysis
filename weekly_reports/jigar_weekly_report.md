@@ -4,7 +4,7 @@
 - **Name**: Jariwala, Jigar Rakeshkumar
 - **Project Title**: Comparing peer review practices: an analysis of reviews from different research communities
 - **Mentor**: LU, Sheng (Bob)
-- **Course**: Data Analysis Software Project for Natural Language (WS 25/26) - 9 ECTS
+- **Course**: Data Analysis Software Project for Natural Language (WS 25/26) -9 ECTS
 
 ---
 
