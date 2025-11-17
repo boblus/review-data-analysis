@@ -1,4 +1,4 @@
-# [Rizwana Rathmann] Weekly Reports
+# Rizwana Rathmann Weekly Reports
 
 ## Student Information
 - **Name**: Rizwana Rathmann
