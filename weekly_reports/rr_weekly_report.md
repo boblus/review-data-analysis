@@ -28,7 +28,7 @@
 ### Week [2]
 
 - **Update 1**:  summaries of the two papers.
--  **Update 2**: Summary of paper assigned [here](https://docs.google.com/document/d/1hbQrtoJuKz7nBDGpdHDJwVKtcbWh94BteJEo6p8nBe8/edit?tab=t.0)
+-  **Update 2**: Summary of paper assigned [here]
 - **Update 3**: 
 - **Challenges**: Keep the summary short, while not leaving any important details
 - **Next Steps**: Reading the summaries from my group members
