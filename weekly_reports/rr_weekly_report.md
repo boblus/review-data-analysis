@@ -27,8 +27,8 @@
 
 ### Week [2]
 
-- **Update 1**: 2 Summaries are almost complete
-- **Update 2**: 
+- **Update 1**: 2 Summaries are almost complete [here](https://docs.google.com/document/d/1INMqKmGlQx1bnUzI4UZBa1Il3aK8XFOw7OIoVsd0uVM/edit?tab=t.0)
+- - **Update 2**: 
 - **Update 3**: 
 - **Challenges**: Keep the summary short, while not leaving any important details
 - **Next Steps**: 
