@@ -29,7 +29,7 @@
 
 - **Update 1**: 2 Summaries are almost complete [here](https://docs.google.com/document/d/1INMqKmGlQx1bnUzI4UZBa1Il3aK8XFOw7OIoVsd0uVM/edit?tab=t.0)
 -  **Update 2**: Summary of paper assigned [here](https://docs.google.com/document/d/17CUYgH9DWQT38cqDO5plEXLc6lRtV7Oi6AH3CRWn3r8/edit?tab=t.0)
-- **Update 3**: Summary of other 2 papers [here](https://docs.google.com/document/d/1B4gaoeZ0WOSqGVWBGiGgdIZuBnx1ee277pta2enYoxg/edit?tab=t.0)
+- **Update 3**: Summary of other 2 papers [first](https://docs.google.com/document/d/1B4gaoeZ0WOSqGVWBGiGgdIZuBnx1ee277pta2enYoxg/edit?tab=t.0),[second](https://docs.google.com/document/d/1w_yaoakSDSwKPRVIItFw99paFxw5JEONSvUvEi3zZgM/edit?tab=t.0)
 - **Challenges**: Keep the summary short, while not leaving any important details
 - **Next Steps**: 
 
