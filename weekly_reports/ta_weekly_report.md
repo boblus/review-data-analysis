@@ -10,17 +10,16 @@
 
 ## Reports
 
-### Week [2]
+### Week [2] - 17-23/11/2025
 
 ...
 
-### Week [1]
+### Week [1] - 10-16/11/2025
 
 - **Update 1**: Reading assigned paper. Finishing "Identifying aspects" and "ReviewFlow"
 - **Update 2**: Summaries of assigned paper are [here](https://docs.google.com/document/d/1QcGxAXONxQf3bJ6Eu088pwKg8JuS-PJdVo-0O2Fkac0/edit?usp=sharing)
 - **Challenges**: None
 - **Next Steps**: Read and summarize the other 2 ("NLPeer" and "Analyzing Tasks & Dataset")
-
 
 
 ---
