@@ -12,24 +12,24 @@
 
 ### Week [0]
 
-- **Update 1**: First meeting with Bob
-- **Update 2**: Gleaning the papers for the literature review
-- **Challenges**: None
-- **Next Steps**: Writing short summaries
+- **Update 1**:
+- **Update 2**: 
+- **Challenges**: 
+- **Next Steps**: 
 
-### Week [1]
+### Week [2]
 
-- **Update 1**: Skimmed through the papers
-- **Update 2**: wrote first draft of the paper
+- **Update 1**: Meeting with Bob
+- **Update 2**: Data set collection
 - **Update 3**: wrote the rest
 - **Challenges**: What points to include in the short summary
 - **Next Steps**: re-write the summary in a short bullet style
 
-### Week [2]
+### Week [1]
 
-- **Update 1**:  summaries of the two papers.
+- **Update 1**:  First meeting with Bob
 -  **Update 2**: Summary of paper assigned [here](https://docs.google.com/document/d/12Kx5QDhGSTaVnQR8vR4yHz2Y7BGACULKpWQ-EyYw5II/edit?tab=t.0)
-- **Update 3**: 
+- **Update 3**:  
 - **Challenges**: Keep the summary short, while not leaving any important details
 - **Next Steps**: Reading the summaries from my group members
 
