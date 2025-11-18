@@ -10,24 +10,12 @@
 
 ## Reports
 
-### Week [0]
-
-- **Update 1**: Initial meeting with Bob
-- **Update 2**: Skimming assigned papers for the literature review
-- **Challenges**: None
-- **Next Steps**: Writing small summaries for the literature review
-
-### Week [1]
+## Week [1]
 
 - **Update 1**: Writing small summaries for the literature review 
 - **Update 2**: Condensing summaries
+- **Update 3**: [Link to my summaries](https://sharelatex.tu-darmstadt.de/read/pbsfvnwdbspr#a149c0)
 - **Challenges**: My summaries were too extensive.
-- **Next Steps**: Rework summaries
-
-### Week [2]
-
-- **Update 1**: Condensing summaries
-- **Challenges**: None
-- **Next Steps**: Read summaries from group members
+- **Next Steps**: Data Collection
 
 ---
