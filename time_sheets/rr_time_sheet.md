@@ -12,7 +12,7 @@
 
 | Start      | End        | Task Name       | Task Description         | Time Spent (hours) | Status        |
 |------------|------------|-----------------|--------------------------|--------------------|---------------|
-| [10/29/2025] | [11/13/2025] | [Literature Review]   | [Summary of assigned paper]  | Completed      | 
+| [10/29/25] | [11/13/25] |Literature Review|Summary of assigned paper |        14          |   Completed   |
 | [MM/DD/YY] | [MM/DD/YY] | [Task 2 Name]   | [Description of Task 2]  | [Time spent]       | [Completed]   |
 | [MM/DD/YY] | [MM/DD/YY] | [Task 3 Name]   | [Description of Task 3]  | [Time spent]       | [Pending]     |
 
