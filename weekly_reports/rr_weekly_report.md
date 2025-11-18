@@ -20,17 +20,17 @@
 ### Week [2]
 
 - **Update 1**: Meeting with Bob
-- **Update 2**: Data set collection
-- **Update 3**: wrote the rest
-- **Challenges**: What points to include in the short summary
-- **Next Steps**: re-write the summary in a short bullet style
-
+- **Update 2**: 
+- **Update 3**: 
+- **Challenges**: 
+- **Next Steps**:
+- 
 ### Week [1]
 
 - **Update 1**:  First meeting with Bob
 -  **Update 2**: Summary of paper assigned [here](https://docs.google.com/document/d/12Kx5QDhGSTaVnQR8vR4yHz2Y7BGACULKpWQ-EyYw5II/edit?tab=t.0)
-- **Update 3**:  
+- **Update 3**:  Reading the summaries from my group members
 - **Challenges**: Keep the summary short, while not leaving any important details
-- **Next Steps**: Reading the summaries from my group members
+  **Next Steps**: Data collection
 
 ---
