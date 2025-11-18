@@ -24,13 +24,13 @@
 - **Update 3**: 
 - **Challenges**: 
 - **Next Steps**:
-- 
+ 
 ### Week [1]
 
 - **Update 1**:  First meeting with Bob
 -  **Update 2**: Summary of paper assigned [here](https://docs.google.com/document/d/12Kx5QDhGSTaVnQR8vR4yHz2Y7BGACULKpWQ-EyYw5II/edit?tab=t.0)
 - **Update 3**:  Reading the summaries from my group members
-- **Challenges**: Keep the summary short, while not leaving any important details
-  **Next Steps**: Data collection
+- **Challenges**: None
+- **Next Steps**: Data collection
 
 ---
